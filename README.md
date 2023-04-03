@@ -34,4 +34,9 @@
     <td> Convert Minutes into Seconds </td>
     <td> Very Easy </td>
   </tr>
+  <tr align="center">
+    <td> 03 </td>
+    <td> Area of a Triangle </td>
+    <td> Very Easy </td>
+  </tr>
 </table>
