@@ -39,9 +39,4 @@
     <td> Area of a Triangle </td>
     <td> Very Easy </td>
   </tr>
-   <tr align="center">
-    <td> 04 </td>
-    <td> Convert Age to Days </td>
-    <td> Very Easy </td>
-  </tr>
 </table>
