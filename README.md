@@ -17,7 +17,6 @@
 &nbsp;
 &nbsp;
 
-
 <table>
   <tr align="center">
     <th> Challenge No </th>
@@ -42,6 +41,16 @@
    <tr align="center">
     <td> 04 </td>
     <td> Convert Age to Days </td>
+    <td> Very Easy </td>
+  </tr>
+   <tr align="center">
+    <td> 05 </td>
+    <td> Return the First Element in an Array </td>
+    <td> Very Easy </td>
+  </tr>
+   <tr align="center">
+    <td> 06 </td>
+    <td> Is the Number Less than or Equal to Zero </td>
     <td> Very Easy </td>
   </tr>
 </table>
