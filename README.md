@@ -17,7 +17,6 @@
 &nbsp;
 &nbsp;
 
-
 <table>
   <tr align="center">
     <th> Challenge No </th>
@@ -57,6 +56,11 @@
   <tr align="center">
     <td> 07 </td>
     <td> Pair Management </td>
+    <td> Very Easy </td>
+  </tr>
+  <tr align="center">
+    <td> 08 </td>
+    <td> Drop the First Elements of an Array </td>
     <td> Very Easy </td>
   </tr>
 </table>
