@@ -63,4 +63,9 @@
     <td> Drop the First Elements of an Array </td>
     <td> Very Easy </td>
   </tr>
+  <tr align="center">
+    <td> 09 </td>
+    <td> Invert an Array </td>
+    <td> Very Easy </td>
+  </tr>
 </table>
