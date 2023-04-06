@@ -68,4 +68,9 @@
     <td> Invert an Array </td>
     <td> Very Easy </td>
   </tr>
+  <tr align="center">
+    <td> 10 </td>
+    <td> Remove number from strings </td>
+    <td> Very Easy </td>
+  </tr>
 </table>
