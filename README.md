@@ -73,4 +73,9 @@
     <td> Remove number from strings </td>
     <td> Very Easy </td>
   </tr>
+  <tr align="center">
+    <td> 11 </td>
+    <td> Next Perfect Square </td>
+    <td> Very Easy </td>
+  </tr>
 </table>
