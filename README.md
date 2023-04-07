@@ -78,4 +78,9 @@
     <td> Next Perfect Square </td>
     <td> Very Easy </td>
   </tr>
+  <tr align="center">
+    <td> 12 </td>
+    <td> Human, Cat and Dog Years  </td>
+    <td> Very Easy </td>
+  </tr>
 </table>
