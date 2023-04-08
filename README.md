@@ -83,4 +83,14 @@
     <td> Human, Cat and Dog Years  </td>
     <td> Very Easy </td>
   </tr>
+  <tr align="center">
+    <td> 13 </td>
+    <td> Even and Odd Strings  </td>
+    <td> Very Easy </td>
+  </tr>
+  <tr align="center">
+    <td> 14 </td>
+    <td> Move Zeroes </td>
+    <td> Very Easy </td>
+  </tr>
 </table>
