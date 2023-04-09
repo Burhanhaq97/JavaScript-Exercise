@@ -93,4 +93,14 @@
     <td> Move Zeroes </td>
     <td> Very Easy </td>
   </tr>
+  <tr align="center">
+    <td> 15 </td>
+    <td> Basketball Points </td>
+    <td> Very Easy </td>
+  </tr>
+  <tr align="center">
+    <td> 16 </td>
+    <td> The Farm Problem </td>
+    <td> Very Easy </td>
+  </tr>
 </table>
