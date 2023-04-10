@@ -103,4 +103,14 @@
     <td> The Farm Problem </td>
     <td> Very Easy </td>
   </tr>
+  <tr align="center">
+    <td> 17 </td>
+    <td> Using the "&&" Operator </td>
+    <td> Very Easy </td>
+  </tr>
+  <tr align="center">
+    <td> 18 </td>
+    <td> Are the Numbers Equal? </td>
+    <td> Very Easy </td>
+  </tr>
 </table>
