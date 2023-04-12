@@ -118,4 +118,9 @@
     <td> Football Points </td>
     <td> Very Easy </td>
   </tr>
+  <tr align="center">
+    <td> 20 </td>
+    <td> Convert Hours and Minutes into Seconds </td>
+    <td> Very Easy </td>
+  </tr>
 </table>
