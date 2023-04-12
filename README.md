@@ -113,4 +113,9 @@
     <td> Are the Numbers Equal? </td>
     <td> Very Easy </td>
   </tr>
+  <tr align="center">
+    <td> 19 </td>
+    <td> Football Points </td>
+    <td> Very Easy </td>
+  </tr>
 </table>
