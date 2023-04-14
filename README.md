@@ -123,4 +123,14 @@
     <td> Convert Hours and Minutes into Seconds </td>
     <td> Very Easy </td>
   </tr>
+  <tr align="center">
+    <td> 21 </td>
+    <td> Miserable Parody of a Calculator </td>
+    <td> Very Easy </td>
+  </tr>
+  <tr align="center">
+    <td> 22 </td>
+    <td> Profitable Gamble </td>
+    <td> Very Easy </td>
+  </tr>
 </table>
