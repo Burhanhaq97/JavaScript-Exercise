@@ -133,4 +133,14 @@
     <td> Profitable Gamble </td>
     <td> Very Easy </td>
   </tr>
+  <tr align="center">
+    <td> 22 </td>
+    <td> Two Makes Ten </td>
+    <td> Very Easy </td>
+  </tr>
+  <tr align="center">
+    <td> 23 </td>
+    <td> Let's Fuel Up! </td>
+    <td> Very Easy </td>
+  </tr>
 </table>
