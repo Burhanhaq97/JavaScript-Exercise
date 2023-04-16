@@ -143,4 +143,14 @@
     <td> Let's Fuel Up! </td>
     <td> Very Easy </td>
   </tr>
+  <tr align="center">
+    <td> 24 </td>
+    <td> Compare Strings by Count of Characters </td>
+    <td> Very Easy </td>
+  </tr>
+  <tr align="center">
+    <td> 25 </td>
+    <td> Is the String Empty? </td>
+    <td> Very Easy </td>
+  </tr>
 </table>
