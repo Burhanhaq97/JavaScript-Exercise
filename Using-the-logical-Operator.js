@@ -22,16 +22,17 @@ Examples:
 */
 
 //? solution:
-// const and = (val1, val2) => {
-//   if (val1 && val2) {
-//     return true;
-//   } else {
-//     return false;
-//   }
-// };
+const and = (val1, val2) => {
+  if (val1 && val2) {
+    return true;
+  } else {
+    return false;
+  }
+};
+
 
 //! one line solution
-const and = (val1, val2) => (val1 && val2 ? true : false);
+// const and = (val1, val2) => (val1 && val2 ? true : false);
 
 console.log(and(true, false));
 console.log(and(true, true));
