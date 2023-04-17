@@ -12,16 +12,17 @@ Notes:
 */
 
 //? solution
-// const isSameNum = (num1, num2) => {
-//   if (num1 === num2) {
-//     return true;
-//   } else {
-//     return false;
-//   }
-// };
+const isSameNum = (num1, num2) => {
+  if (num1 === num2) {
+    return true;
+  } else {
+    return false;
+  }
+};
+
 
 //! one line solution
-const isSameNum = (num1, num2) => (num1 === num2 ? true : false);
+// const isSameNum = (num1, num2) => (num1 === num2 ? true : false);
 
 console.log(isSameNum(4, 8));
 console.log(isSameNum(2, 2));
