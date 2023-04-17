@@ -153,4 +153,14 @@
     <td> Is the String Empty? </td>
     <td> Very Easy </td>
   </tr>
+  <tr align="center">
+    <td> 26 </td>
+    <td> Check if an Integer is Divisible By Five </td>
+    <td> Very Easy </td>
+  </tr>
+  <tr align="center">
+    <td> 27 </td>
+    <td> Multiple of 100 </td>
+    <td> Very Easy </td>
+  </tr>
 </table>
