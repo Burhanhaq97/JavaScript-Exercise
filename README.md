@@ -163,4 +163,14 @@
     <td> Multiple of 100 </td>
     <td> Very Easy </td>
   </tr>
+  <tr align="center">
+    <td> 28 </td>
+    <td> Simple Array Manipulation </td>
+    <td> Very Easy </td>
+  </tr>
+  <tr align="center">
+    <td> 29 </td>
+    <td> ES6: Destructuring Arrays </td>
+    <td> Very Easy </td>
+  </tr>
 </table>
