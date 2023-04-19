@@ -173,4 +173,14 @@
     <td> ES6: Destructuring Arrays </td>
     <td> Very Easy </td>
   </tr>
+  <tr align="center">
+    <td> 30 </td>
+    <td> Find the Smallest and Biggest Numbers </td>
+    <td> Very Easy </td>
+  </tr>
+  <tr align="center">
+    <td> 31 </td>
+    <td> Add up the Numbers from a Single Number </td>
+    <td> Easy </td>
+  </tr>
 </table>
