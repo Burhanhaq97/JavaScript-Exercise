@@ -183,4 +183,9 @@
     <td> Add up the Numbers from a Single Number </td>
     <td> Easy </td>
   </tr>
+  <tr align="center">
+    <td> 32 </td>
+    <td> Convert a Number to Base-2 </td>
+    <td> Easy </td>
+  </tr>
 </table>
