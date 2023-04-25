@@ -188,4 +188,9 @@
     <td> Convert a Number to Base-2 </td>
     <td> Easy </td>
   </tr>
+  <tr align="center">
+    <td> 33 </td>
+    <td> Check if One Array can be Nested in Another </td>
+    <td> Easy </td>
+  </tr>
 </table>
