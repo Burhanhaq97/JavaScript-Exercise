@@ -193,4 +193,9 @@
     <td> Check if One Array can be Nested in Another </td>
     <td> Easy </td>
   </tr>
+  <tr align="center">
+    <td> 34 </td>
+    <td> Sum of Resistance in Series Circuits </td>
+    <td> Easy </td>
+  </tr>
 </table>
