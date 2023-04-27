@@ -198,4 +198,9 @@
     <td> Sum of Resistance in Series Circuits </td>
     <td> Easy </td>
   </tr>
+  <tr align="center">
+    <td> 35 </td>
+    <td> Tuck in Array </td>
+    <td> Easy </td>
+  </tr>
 </table>
