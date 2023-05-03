@@ -203,4 +203,9 @@
     <td> Tuck in Array </td>
     <td> Easy </td>
   </tr>
+  <tr align="center">
+    <td> 36 </td>
+    <td> Slightly Superior </td>
+    <td> Easy </td>
+  </tr>
 </table>
