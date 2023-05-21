@@ -208,4 +208,9 @@
     <td> Slightly Superior </td>
     <td> Easy </td>
   </tr>
+  <tr align="center">
+    <td> 37 </td>
+    <td> Filter out Strings from an Array </td>
+    <td> Easy </td>
+  </tr>
 </table>
