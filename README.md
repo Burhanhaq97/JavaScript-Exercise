@@ -213,4 +213,9 @@
     <td> Filter out Strings from an Array </td>
     <td> Easy </td>
   </tr>
+  <tr align="center">
+    <td> 38 </td>
+    <td> Remove Duplicates from an Array </td>
+    <td> Easy </td>
+  </tr>
 </table>
