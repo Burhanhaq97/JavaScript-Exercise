@@ -218,4 +218,9 @@
     <td> Remove Duplicates from an Array </td>
     <td> Easy </td>
   </tr>
+  <tr align="center">
+    <td> 39 </td>
+    <td> How Many Vowels? </td>
+    <td> Easy </td>
+  </tr>
 </table>
